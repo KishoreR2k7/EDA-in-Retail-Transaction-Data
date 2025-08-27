@@ -70,13 +70,13 @@ Copy code
 streamlit run app.py
 Open the URL displayed in the terminal to access the dashboard, or use the live dashboard link:
 
-
+```
 Open Retail Sales Dashboard
 
 
 ## http://localhost:8501/
 
-
+```
 💡 Insights
 Bengaluru and Pune are the top cities in terms of revenue and customers.
 
