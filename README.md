@@ -71,7 +71,7 @@ streamlit run app.py
 Open the URL displayed in the terminal to access the dashboard, or use the live dashboard link:
 
 ```
-Open Retail Sales Dashboard
+## Open Retail Sales Dashboard:
 
 
 ## https://eda-in-retail-transaction-data.streamlit.app/
