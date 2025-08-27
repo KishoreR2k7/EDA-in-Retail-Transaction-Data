@@ -74,7 +74,7 @@ Open the URL displayed in the terminal to access the dashboard, or use the live 
 Open Retail Sales Dashboard
 
 
-## https://eda-in-retail-transaction-data-pj382g9ubwyhrcxpjhu8wm.streamlit.app/
+## https://eda-in-retail-transaction-data-pj382g9ubwyhrcxpjhu8wm.streamlit.app/](https://eda-in-retail-transaction-data.streamlit.app/
 
 ```
 💡 Insights
